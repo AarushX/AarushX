@@ -1,4 +1,4 @@
-professional spell checker
+professional spell checker\
 hobbyist programmer
 
 ![Python](https://img.shields.io/badge/-Development-eb5234?logo=python&logoColor=fff) ![](https://visitor-badge.glitch.me/badge?page_id=aarushx,aarushx) \
