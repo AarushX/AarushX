@@ -2,17 +2,6 @@
 
 hobbyist programmer
 
-![Hacking](hacker-hacker-man.gif)\
-![Statistics](https://github-readme-stats.vercel.app/api?username=AarushX&count_private=true&show_icons=true&theme=dark)
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AarushX&show_icons=true&theme=dark)-->
-![](https://visitor-badge.glitch.me/badge?page_id=aarushx,aarushx) <-- If you ever see this, its not accurate.
-
-Heres my repos
-
-https://github.com/AarushX?tab=repositories
-
-Also eh heres a few shields
-
 ![Ableton Live](https://img.shields.io/static/v1?style=for-the-badge&message=Ableton+Live&color=000000&logo=Ableton+Live&logoColor=FFFFFF&label=)
 ![Adobe Lightroom Classic](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Lightroom+Classic&color=31A8FF&logo=Adobe+Lightroom+Classic&logoColor=FFFFFF&label=)
 ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
@@ -42,3 +31,12 @@ Also eh heres a few shields
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ![Wikipedia](https://img.shields.io/static/v1?style=for-the-badge&message=Wikipedia&color=000000&logo=Wikipedia&logoColor=FFFFFF&label=)
 ![YouTube](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=)
+
+![Hacking](hacker-hacker-man.gif)\
+![Statistics](https://github-readme-stats.vercel.app/api?username=AarushX&count_private=true&show_icons=true&theme=dark)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AarushX&show_icons=true&theme=dark)-->
+![](https://visitor-badge.glitch.me/badge?page_id=aarushx,aarushx) <-- If you ever see this, its not accurate.
+
+Heres my repos
+
+https://github.com/AarushX?tab=repositories
