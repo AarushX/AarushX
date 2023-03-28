@@ -7,5 +7,5 @@ hobbyist programmer ![](https://visitor-badge.glitch.me/badge?page_id=aarushx,aa
 
 <img style="height:105px; position:absolute; left:0px;" src=hacker-hacker-man.gif/><img style="height:105px; position:absolute; left:0px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarushX&show_icons=true&theme=dark"/>
 
-
+CEO of Continuous Function
 
